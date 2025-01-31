@@ -30,5 +30,5 @@ Tambahkan catatan baru, edit, atau hapus sesuai kebutuhan.
 
 ## 📷 Tangkapan Layar
  <a href="https://bloclibrary.dev/tutorials/flutter-counter">
-      <img src="app/sampledata/example_app.mp4" width="200"/>  
+      <img src="sampledata/example_app.mp4" width="200"/>  
  </a>
