@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="switch_icon">switch_icon</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+</resources>
