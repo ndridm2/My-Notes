@@ -29,4 +29,7 @@ Jalankan aplikasi pada emulator atau perangkat fisik.
 Tambahkan catatan baru, edit, atau hapus sesuai kebutuhan.
 
 ## 📷 Tangkapan Layar
-(Tambahkan screenshot dari aplikasi jika tersedia)
+<video width="500" controls>
+  <source src="app/sample_data/example_app.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
