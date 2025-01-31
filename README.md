@@ -29,4 +29,4 @@ Jalankan aplikasi pada emulator atau perangkat fisik.
 Tambahkan catatan baru, edit, atau hapus sesuai kebutuhan.
 
 ## 📷 Tangkapan Layar
-[![Watch the video]](https://github.com/ndridm2/repository/raw/main/app/sample_data/example_app.mp4)
+
