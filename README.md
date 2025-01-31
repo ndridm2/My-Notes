@@ -29,10 +29,5 @@ Jalankan aplikasi pada emulator atau perangkat fisik.
 Tambahkan catatan baru, edit, atau hapus sesuai kebutuhan.
 
 ## 📷 Tangkapan Layar
- <a href="https://bloclibrary.dev/tutorials/flutter-counter">
-      <img src="app/sampledata/example_app.mp4" width="200"/>  
- </a>
-
-
 https://github.com/user-attachments/assets/6926e169-093a-4bf1-b66e-c021de9a6455
 
